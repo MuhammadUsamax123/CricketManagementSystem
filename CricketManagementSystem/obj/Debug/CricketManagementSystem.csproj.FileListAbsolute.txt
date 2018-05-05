@@ -1,0 +1,11 @@
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\bin\Debug\CricketManagementSystem.exe.config
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\bin\Debug\CricketManagementSystem.exe
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\bin\Debug\CricketManagementSystem.pdb
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\bin\Debug\MaterialSkin.dll
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\bin\Debug\MetroFramework.dll
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.Properties.Resources.resources
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.csproj.GenerateResource.Cache
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.exe
+c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.pdb
