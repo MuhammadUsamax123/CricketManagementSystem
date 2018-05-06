@@ -20,5 +20,13 @@ namespace CricketManagementSystem
             skinmanager.Theme = MaterialSkin.MaterialSkinManager.Themes.LIGHT;
             skinmanager.ColorScheme = new MaterialSkin.ColorScheme(MaterialSkin.Primary.Green500, MaterialSkin.Primary.BlueGrey900, MaterialSkin.Primary.BlueGrey500, MaterialSkin.Accent.Orange700, MaterialSkin.TextShade.WHITE);
         }
+
+        private void loginbutton_Click(object sender, EventArgs e)
+        {
+            AddPlayer sh = new AddPlayer();
+            this.Hide();
+            sh.ShowDialog();
+            this.Close();
+        }
     }
 }

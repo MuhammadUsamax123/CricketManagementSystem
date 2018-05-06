@@ -10,15 +10,20 @@ using System.Windows.Forms;
 
 namespace CricketManagementSystem
 {
-    public partial class AddPlayer : MaterialSkin.Controls.MaterialForm
+    public partial class AddSquad : MaterialSkin.Controls.MaterialForm
     {
-        public AddPlayer()
+        public AddSquad()
         {
             InitializeComponent();
             MaterialSkin.MaterialSkinManager skinmanager = MaterialSkin.MaterialSkinManager.Instance;
             skinmanager.AddFormToManage(this);
             skinmanager.Theme = MaterialSkin.MaterialSkinManager.Themes.LIGHT;
             skinmanager.ColorScheme = new MaterialSkin.ColorScheme(MaterialSkin.Primary.Green500, MaterialSkin.Primary.BlueGrey900, MaterialSkin.Primary.BlueGrey500, MaterialSkin.Accent.Orange700, MaterialSkin.TextShade.WHITE);
+        }
+
+        private void AddSquad_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

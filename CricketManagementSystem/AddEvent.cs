@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CricketManagementSystem
 {
-    public partial class AddPlayer : MaterialSkin.Controls.MaterialForm
+    public partial class AddEvent : MaterialSkin.Controls.MaterialForm
     {
-        public AddPlayer()
+        public AddEvent()
         {
             InitializeComponent();
             MaterialSkin.MaterialSkinManager skinmanager = MaterialSkin.MaterialSkinManager.Instance;

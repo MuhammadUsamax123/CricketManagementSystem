@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.userName = new MaterialSkin.Controls.MaterialSingleLineTextField();
             this.password = new MaterialSkin.Controls.MaterialSingleLineTextField();
             this.loginbutton = new MaterialSkin.Controls.MaterialRaisedButton();
@@ -78,6 +77,7 @@
             this.loginbutton.TabIndex = 2;
             this.loginbutton.Text = "Login";
             this.loginbutton.UseVisualStyleBackColor = true;
+            this.loginbutton.Click += new System.EventHandler(this.loginbutton_Click);
             // 
             // errorLabel
             // 

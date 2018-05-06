@@ -9,3 +9,17 @@ c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\Cri
 c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.csproj.GenerateResource.Cache
 c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.exe
 c:\users\rtend\documents\visual studio 2015\Projects\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.pdb
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\bin\Debug\CricketManagementSystem.exe.config
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.exe
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.pdb
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\bin\Debug\CricketManagementSystem.exe
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\bin\Debug\CricketManagementSystem.pdb
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\bin\Debug\MaterialSkin.dll
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.AddPlayer.resources
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.Login.resources
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.Properties.Resources.resources
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.csproj.GenerateResource.Cache
+C:\Users\hp pc\Desktop\CricketManagementSystem\CricketManagementSystem\obj\Debug\CricketManagementSystem.AddBoard.resources
